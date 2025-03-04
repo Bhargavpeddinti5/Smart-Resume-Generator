@@ -2,6 +2,19 @@
 SmartResume Generator: Customized Resumes for Every Opportunity
 The Resume Generator project aims to develop an AI-driven tool for automating the creation of professional resumes. The objective is to build a generative model that can craft tailored resumes based on user inputs such as personal information, job experience, and career goals. By analyzing these details, the model produces well-structured resumes that effectively highlight the candidate’s skills, achievements, and qualifications. This tool streamlines the resume creation process, enabling users to generate polished and personalized resumes quickly, thereby enhancing their ability to present themselves effectively to potential employers and improve their job application success.
 
+
+# Deploy App Link:
+
+https://smart-resume-generator-bm3vg9aatziqtt9cp3o67t.streamlit.app/
+
+# Video Demo :
+
+https://drive.google.com/file/d/1bG88AvdXYMow0kokhmH9VTuE6bXI3_U5/view?usp=drive_link
+
+# Documentation File/Link:
+
+https://drive.google.com/file/d/14dEX8auUjcy-pdVz1Tj9Ir7AB3AOo_Zw/view?usp=drive_link
+
 Scenario 1: University Career Services
 A university's career services department offers a resume generator to assist students in creating polished resumes tailored to specific industries. Students input details such as their academic achievements, internships, and extracurricular activities, and the tool generates resumes highlighting the most relevant skills and experiences for fields like finance, engineering, or marketing. This service helps students stand out in competitive job markets, similar to how career advisors provide tailored guidance based on individual career goals.
 
